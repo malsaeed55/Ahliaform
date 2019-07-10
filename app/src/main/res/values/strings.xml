@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Fourm Ahlia</string>
+    <string name="title">Title</string>
+    <string name="gender">Gender</string>
+    <string name="mr">Mr.</string>
+    <string name="mrs">Mrs.</string>
+    <string name="ms">Ms.</string>
+    <string name="male">Male</string>
+    <string name="full_name_as_it_appears_in_your_passport">Full Name (as it appears in your passport)</string>
+    <string name="female">Female</string>
+    <string name="first_name">First Name</string>
+    <string name="second_name">Second Name</string>
+    <string name="third_name">Third Name</string>
+    <string name="sure_name">Sure Name</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="country_of_birth">Country of Birth</string>
+    <string name="cpr">CPR/ID No.</string>
+    <string name="nation">Nationality</string>
+    <string name="passNumber">Passport No.</string>
+    <string name="passExpDate">Passport Expiry Date</string>
+    <string name="religion">Religion</string>
+    <string name="marita">Marital Status</string>
+    <string name="mNameFull">Mother’s Full Name</string>
+    <string name="add">Address</string>
+    <string name="permAddres">Permanent Address</string>
+    <string name="coAdress">Correspondence Address</string>
+    <string name="hf">House / Flat</string>
+    <string name="build">Building \n(If Applicable)</string>
+    <string name="road">Road</string>
+    <string name="blck">Block</string>
+    <string name="area">Area</string>
+    <string name="coun">Country</string>
+    <string name="clearrrr">Clear</string>
+    <string name="submit">Submit</string>
+</resources>
